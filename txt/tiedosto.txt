@@ -1,5 +1,5 @@
-kirjoita oma nimesi:
+kirjoita oma nimesi: milla
 
-kellonaika: 
+kellonaika: 13.56 16.10.2017
 
-jotain: 
+jotain: terve kaikki
