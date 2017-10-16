@@ -1,5 +1,5 @@
-kirjoita oma nimesi: juha ker‰nen
+kirjoita oma nimesi: master
 
-kellonaika: 13.43 16.10.2017
+kellonaika: 13.57 16.10.2017
 
-jotain: min‰ olen t‰‰ll‰
+jotain: im the master
