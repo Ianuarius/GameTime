@@ -1,5 +1,5 @@
-kirjoita oma nimesi:
+kirjoita oma nimesi: santeri	
 
-kellonaika: 
+kellonaika: 14.03 16.10.2017
 
-jotain: 
+jotain: ...
