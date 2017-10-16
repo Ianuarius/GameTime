@@ -1,5 +1,5 @@
-kirjoita oma nimesi: master
+kirjoita oma nimesi:robbe
 
-kellonaika: 13.57 16.10.2017
+kellonaika: nyt
 
-jotain: im the master
+jotain: onpa kivaa 
