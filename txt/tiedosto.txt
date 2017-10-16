@@ -1,5 +1,5 @@
-kirjoita oma nimesi:
+kirjoita oma nimesi:robbe
 
-kellonaika: 
+kellonaika: nyt
 
-jotain: 
+jotain: onpa kivaa 
