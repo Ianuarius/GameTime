@@ -1,5 +1,5 @@
-kirjoita oma nimesi: milla
+kirjoita oma nimesi: master
 
-kellonaika: 13.56 16.10.2017
+kellonaika: 13.57 16.10.2017
 
-jotain: terve kaikki
+jotain: im the master
