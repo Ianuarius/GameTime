@@ -1,5 +1,7 @@
-kirjoita oma nimesi:robbe
+﻿=======
+kirjoita oma nimesi: master
 
-kellonaika: nyt
+kellonaika: 13.57 16.10.2017
 
-jotain: onpa kivaa 
+jotain: im the master
+>>>>>>> origin/juhakeränen
