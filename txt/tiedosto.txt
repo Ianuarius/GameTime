@@ -1,5 +1,5 @@
-kirjoita oma nimesi: master
+kirjoita oma nimesi: Elle Kalliokoski
 
-kellonaika: 13.57 16.10.2017
+kellonaika: 13:58
 
 jotain: Well isn't this a whole load of shenanigans
