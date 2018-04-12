@@ -1,3 +1,11 @@
 kivaa
 höö
-no joo
+e
+n
+p
+ä
+t
+i
+e
+d
+ä
