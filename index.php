@@ -1,3 +1,9 @@
 kivaa
 höö
-no joo
+örörörö
+örörö
+
+öör
+ö
+rö
+r
