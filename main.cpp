@@ -1,4 +1,4 @@
 void funkkari()
 {
-	int jee = 0;
+	double pelle = 200;
 }
