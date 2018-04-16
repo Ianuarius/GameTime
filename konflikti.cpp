@@ -1,6 +1,6 @@
 void funkkari()
 {
-	double pelle = 100;
+	double pelle = 200;
 }
 
 void toinen()
